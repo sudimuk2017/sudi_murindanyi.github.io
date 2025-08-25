@@ -556,8 +556,57 @@ function addImageLoadingStates() {
     });
 }
 
+// Publication Tabs Functionality
+function initPublicationTabs() {
+    const tabButtons = document.querySelectorAll('.tab-btn');
+    const publicationCategories = document.querySelectorAll('.publication-category');
+    
+    // Show all categories by default
+    function showAllCategories() {
+        publicationCategories.forEach(category => {
+            category.style.display = 'block';
+        });
+    }
+    
+    // Filter publications by category
+    function filterPublications(category) {
+        if (category === 'all') {
+            showAllCategories();
+        } else {
+            publicationCategories.forEach(pubCategory => {
+                if (pubCategory.id === category) {
+                    pubCategory.style.display = 'block';
+                } else {
+                    pubCategory.style.display = 'none';
+                }
+            });
+        }
+    }
+    
+    // Tab click handlers
+    tabButtons.forEach(button => {
+        button.addEventListener('click', () => {
+            // Remove active class from all buttons
+            tabButtons.forEach(btn => btn.classList.remove('active'));
+            
+            // Add active class to clicked button
+            button.classList.add('active');
+            
+            // Filter publications
+            const category = button.getAttribute('data-category');
+            filterPublications(category);
+        });
+    });
+    
+    // Initialize with all publications visible
+    showAllCategories();
+}
+
 // Initialize when DOM is loaded
-document.addEventListener('DOMContentLoaded', addImageLoadingStates);
+document.addEventListener('DOMContentLoaded', () => {
+    addImageLoadingStates();
+    initPublicationTabs();
+});
 
 // Add theme toggle functionality (future enhancement)
 function initThemeToggle() {

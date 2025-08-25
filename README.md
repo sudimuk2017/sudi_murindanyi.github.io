@@ -1,86 +1,105 @@
-# Sudi Murindanyi - Portfolio Website
+# Sudi Murindanyi - AI Research Portfolio
 
-A modern, responsive portfolio website showcasing AI research, machine learning engineering, and educational work.
+A comprehensive research portfolio showcasing advanced AI research, machine learning innovations, and academic contributions in computer vision, edge AI, and multimodal systems.
 
-## 🌟 Features
+## 🔬 Research Focus
 
-- **Responsive Design**: Optimized for all devices (desktop, tablet, mobile)
-- **Modern UI/UX**: Clean, professional design with smooth animations
-- **Interactive Elements**: Smooth scrolling, hover effects, and micro-interactions  
-- **Performance Optimized**: Fast loading with efficient code structure
-- **SEO Friendly**: Proper meta tags and semantic HTML structure
-- **Accessible**: WCAG compliant with keyboard navigation support
+### Core Research Areas
 
-## 🛠️ Built With
+**Computer Vision & Deep Learning**
+- Advanced 3D and video data analysis using state-of-the-art architectures
+- Object counting and re-identification in complex visual scenarios  
+- Agricultural monitoring through drone imagery and yield estimation
+- Medical imaging applications for resource-constrained environments
 
-- **HTML5**: Semantic structure and accessibility features
-- **CSS3**: Modern styling with CSS Grid, Flexbox, and animations
-- **Vanilla JavaScript**: Interactive functionality without dependencies
-- **FontAwesome**: Professional iconography
-- **Google Fonts**: Beautiful typography (Inter + Playfair Display)
+**Edge AI & Deployment**
+- Optimization strategies for real-time computer vision on edge devices
+- Efficient model deployment in resource-limited settings
+- Performance enhancement for embedded AI systems
 
-## 🚀 Sections
+**Multimodal AI Systems**
+- Integration of medical and agricultural data modalities
+- Enhanced predictive capabilities through multimodal learning
+- Cross-domain knowledge transfer and adaptation
 
-- **Hero**: Professional introduction with dynamic elements
-- **About**: Personal and professional background
-- **Education**: Academic journey including Google DeepMind Scholarship
-- **Experience**: Professional roles and responsibilities
-- **Skills**: Technical proficiencies and expertise areas
-- **Projects**: Featured work and research contributions
-- **Research**: Current focus areas and ongoing investigations
-- **Contact**: Multiple ways to connect
+**Emerging Technologies**
+- Diffusion models for predictive analytics applications
+- Synthetic data generation for domain-specific research
+- Real-time AI processing for critical applications
 
-## 📱 Responsive Breakpoints
+## 🎯 Research Impact
 
-- **Desktop**: 1200px and above
-- **Tablet**: 768px - 1199px  
-- **Mobile**: Below 768px
+### Publications & Academic Output
+- **10+ peer-reviewed publications** across leading journals and conferences
+- **7 journal articles** currently under review at top-tier venues
+- **150+ total citations** with growing research influence
+- **h-index of 12** reflecting sustained research impact
 
-## 🎯 Performance Features
+### Key Contributions
+- Novel approaches to agricultural AI for developing countries
+- Breakthrough methods in edge AI optimization
+- Innovative applications of computer vision in healthcare
+- Advanced techniques in multimodal learning systems
 
-- Lazy loading for images
-- Optimized animations with `prefers-reduced-motion` support
-- Efficient JavaScript with debounced scroll handlers
-- CSS optimizations and modern best practices
+## 🏛️ Current Position
 
-## 🔧 Local Development
+**Research Engineer** | AG Visual AI Group, Bielefeld University
+- Conducting cutting-edge research in computer vision and AI
+- Focus on visual AI applications and deep learning architectures
+- Collaboration with international research teams
+- Development of novel multimodal AI systems
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/sudimuk2017/sudi_murindanyi.github.io.git
-   ```
+## 🌍 Research Philosophy
 
-2. Navigate to the project directory:
-   ```bash
-   cd sudi_murindanyi.github.io
-   ```
+My research is driven by the mission to develop **practical AI solutions** that address real-world challenges in developing countries, with particular emphasis on:
 
-3. Start a local server:
-   ```bash
-   python3 -m http.server 8000
-   ```
+- **Healthcare**: Accessible medical AI for resource-limited settings
+- **Agriculture**: Sustainable farming through intelligent monitoring
+- **Education**: AI-powered learning systems for enhanced accessibility
 
-4. Open your browser and visit:
-   ```
-   http://localhost:8000
-   ```
+## 🔗 Academic Presence
 
-## 🌐 Live Website
+- **Google Scholar**: [Research Publications](https://scholar.google.com/citations?user=FrYgoaQAAAAJ&hl=en)
+- **LinkedIn**: [Professional Profile](https://www.linkedin.com/in/sudi-murindanyi-aa8793150/)
+- **Portfolio Website**: [sudimuk2017.github.io](https://sudimuk2017.github.io/)
 
-Visit the live website at: [https://sudimuk2017.github.io/sudi_murindanyi.github.io/](https://sudimuk2017.github.io/sudi_murindanyi.github.io/)
+## 📋 Research Methodology
 
-## 📞 Contact
+### Technical Expertise
+- **Deep Learning Frameworks**: TensorFlow, PyTorch, JAX
+- **Computer Vision**: OpenCV, YOLO, Transformer architectures
+- **Edge Computing**: TensorFlow Lite, ONNX, quantization techniques
+- **Data Science**: Python, R, statistical analysis, synthetic data generation
 
-- **Email**: murindanyi@gmail.com
-- **Phone**: +256 780 365 438  
-- **LinkedIn**: [Sudi Murindanyi](https://www.linkedin.com/in/sudi-murindanyi-aa8793150/)
+### Research Domains
+- Computer Vision Applications
+- Natural Language Processing
+- Reinforcement Learning
+- Edge AI Deployment
+- Multimodal Models
+- Medical AI Systems
+- Agricultural Technology
 
-## 📄 License
+## 🚀 Future Directions
 
-This project is open source and available under the [MIT License](LICENSE).
+### Ongoing Research Projects
+- Advanced 3D scene understanding for autonomous systems
+- Multimodal fusion for enhanced medical diagnosis
+- Sustainable AI solutions for smart agriculture
+- Real-time edge AI for critical applications
+
+### Collaboration Opportunities
+Open to collaborative research in:
+- Cross-institutional AI projects
+- Industry-academia partnerships
+- International development initiatives
+- Open-source AI contributions
+
+## 📞 Research Collaboration
+
+**Email**: murindanyi@gmail.com  
+**LinkedIn**: [Connect for Research Collaboration](https://www.linkedin.com/in/sudi-murindanyi-aa8793150/)
 
 ---
 
-**🤖 Built with [Claude Code](https://claude.ai/code)**
-
-*Crafted with attention to detail, modern web standards, and user experience best practices.*
+*Advancing AI research for global impact through innovative solutions, academic excellence, and collaborative partnerships.*
